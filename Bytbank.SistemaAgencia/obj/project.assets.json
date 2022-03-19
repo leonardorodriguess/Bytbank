@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Bytbank.Modelos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Bytbank.Modelos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bytbank.Modelos.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Bytbank.Modelos/1.0.0": {
+      "type": "project",
+      "path": "../Bytbank.Modelos/Bytbank.Modelos.csproj",
+      "msbuildProject": "../Bytbank.Modelos/Bytbank.Modelos.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Bytbank.Modelos >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Leonardo R\\.nuget\\packages\\": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\Projetos\\alura\\C#\\Bytbank\\Bytbank.Modelos\\Bytbank.Modelos.csproj": {
+              "projectPath": "E:\\Projetos\\alura\\C#\\Bytbank\\Bytbank.Modelos\\Bytbank.Modelos.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

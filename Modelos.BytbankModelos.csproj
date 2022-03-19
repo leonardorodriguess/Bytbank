@@ -1,0 +1,19 @@
+Description:
+  Comando Add do .NET
+
+Usage:
+  dotnet [options] add [<PROJECT>] [command]
+
+Arguments:
+  <PROJECT>  O arquivo de projeto no qual operar. Se um arquivo n∆o for 
+             especificado, o comando pesquisar† um no diret¢rio atual. [default: 
+             E:\Projetos\alura\C#\Bytbank\]
+
+Options:
+  -?, -h, --help  Mostrar a ajuda da linha de comando.
+
+Commands:
+  package <PACKAGE_NAME>    Adicione uma referància do pacote do NuGet ao projeto.
+  reference <PROJECT_PATH>  Adicione uma referància de projeto a projeto ao 
+                            projeto.
+

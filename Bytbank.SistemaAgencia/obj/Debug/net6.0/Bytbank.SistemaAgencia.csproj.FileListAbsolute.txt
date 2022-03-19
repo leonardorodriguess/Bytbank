@@ -13,3 +13,6 @@ E:\Projetos\alura\C#\Bytbank\Bytbank.SistemaAgencia\obj\Debug\net6.0\refint\Bytb
 E:\Projetos\alura\C#\Bytbank\Bytbank.SistemaAgencia\obj\Debug\net6.0\Bytbank.SistemaAgencia.pdb
 E:\Projetos\alura\C#\Bytbank\Bytbank.SistemaAgencia\obj\Debug\net6.0\Bytbank.SistemaAgencia.genruntimeconfig.cache
 E:\Projetos\alura\C#\Bytbank\Bytbank.SistemaAgencia\obj\Debug\net6.0\ref\Bytbank.SistemaAgencia.dll
+E:\Projetos\alura\C#\Bytbank\Bytbank.SistemaAgencia\bin\Debug\net6.0\Bytbank.Modelos.dll
+E:\Projetos\alura\C#\Bytbank\Bytbank.SistemaAgencia\bin\Debug\net6.0\Bytbank.Modelos.pdb
+E:\Projetos\alura\C#\Bytbank\Bytbank.SistemaAgencia\obj\Debug\net6.0\Bytbank.SistemaAgencia.csproj.CopyComplete

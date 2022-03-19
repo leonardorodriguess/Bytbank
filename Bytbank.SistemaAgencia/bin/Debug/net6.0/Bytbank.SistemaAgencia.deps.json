@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Bytbank.SistemaAgencia/1.0.0": {
+        "dependencies": {
+          "Bytbank.Modelos": "1.0.0"
+        },
         "runtime": {
           "Bytbank.SistemaAgencia.dll": {}
+        }
+      },
+      "Bytbank.Modelos/1.0.0": {
+        "runtime": {
+          "Bytbank.Modelos.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Bytbank.SistemaAgencia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bytbank.Modelos/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
