@@ -1,4 +1,19 @@
-﻿using Bytbank.Modelos;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using ByteBank.Modelos;
+using ByteBank.Modelos.Funcionarios;
+using static System.Console;
 
-// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+namespace ByteBank.SistemaAgencia
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            WriteLine("hello");
+        }
+    }
+}
