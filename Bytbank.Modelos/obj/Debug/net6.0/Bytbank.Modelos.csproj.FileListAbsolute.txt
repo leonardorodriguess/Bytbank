@@ -1,0 +1,12 @@
+E:\Projetos\alura\C#\Bytbank\Bytbank.Modelos\bin\Debug\net6.0\Bytbank.Modelos.deps.json
+E:\Projetos\alura\C#\Bytbank\Bytbank.Modelos\bin\Debug\net6.0\Bytbank.Modelos.dll
+E:\Projetos\alura\C#\Bytbank\Bytbank.Modelos\bin\Debug\net6.0\Bytbank.Modelos.pdb
+E:\Projetos\alura\C#\Bytbank\Bytbank.Modelos\obj\Debug\net6.0\Bytbank.Modelos.csproj.AssemblyReference.cache
+E:\Projetos\alura\C#\Bytbank\Bytbank.Modelos\obj\Debug\net6.0\Bytbank.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\alura\C#\Bytbank\Bytbank.Modelos\obj\Debug\net6.0\Bytbank.Modelos.AssemblyInfoInputs.cache
+E:\Projetos\alura\C#\Bytbank\Bytbank.Modelos\obj\Debug\net6.0\Bytbank.Modelos.AssemblyInfo.cs
+E:\Projetos\alura\C#\Bytbank\Bytbank.Modelos\obj\Debug\net6.0\Bytbank.Modelos.csproj.CoreCompileInputs.cache
+E:\Projetos\alura\C#\Bytbank\Bytbank.Modelos\obj\Debug\net6.0\Bytbank.Modelos.dll
+E:\Projetos\alura\C#\Bytbank\Bytbank.Modelos\obj\Debug\net6.0\refint\Bytbank.Modelos.dll
+E:\Projetos\alura\C#\Bytbank\Bytbank.Modelos\obj\Debug\net6.0\Bytbank.Modelos.pdb
+E:\Projetos\alura\C#\Bytbank\Bytbank.Modelos\obj\Debug\net6.0\ref\Bytbank.Modelos.dll
